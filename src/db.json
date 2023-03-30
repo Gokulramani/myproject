@@ -1,0 +1,26 @@
+{
+    "employee": [
+      {
+        "Firstname": "Gokul",
+        "Lastname":"Ramani",
+        "email": "gokul@gmail.com",
+        "city": "Chennai",
+        "active": true,
+        "id": 1
+      },
+      {
+        "Firstname": "ram",
+        "Lastname":"kumar",
+        "email": "rk2@gmail.com",
+        "city": "Madurai",
+        "id": 2
+      },
+      {
+        "id": 3,
+        "Firstname": "Lokesh",
+        "Lastname":"raj",
+        "email": "Lk03@gmail.com",
+        "city": "Madurai"
+      }
+    ]
+  }
